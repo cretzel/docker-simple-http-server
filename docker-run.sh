@@ -1,1 +1,1 @@
-docker run -d -p 8080:8080 --name simple-http-server cretzel/simple-http-server
+docker run -d -p 8080:8080 --name docker-simple-http-server cretzel/docker-simple-http-server

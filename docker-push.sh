@@ -1,1 +1,1 @@
-docker push cretzel/simple-https-server
+docker push cretzel/docker-simple-http-server

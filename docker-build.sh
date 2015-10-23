@@ -1,1 +1,1 @@
-docker build -t cretzel/simple-http-server .
+docker build -t cretzel/docker-simple-http-server .
